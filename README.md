@@ -1,4 +1,7 @@
 # Devine-achat
+
+[![Ouvrir dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZigiiW-f5lZGNccShBTnYLyGlH8HxyNH)
+
 Petit projet IA pour prédire un achat à partir de l'âge et du salaire
 
 Ce projet Python utilise un modèle de régression logistique pour prédire si une personne achètera un produit en fonction de deux critères :
