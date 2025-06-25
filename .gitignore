@@ -1,0 +1,26 @@
+# 📁 Fichiers Python à ignorer
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 📂 Fichiers d'environnement virtuel
+venv/
+env/
+.venv/
+.env/
+
+# 🔧 Fichiers système (macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# 📊 Fichiers temporaires ou auto-générés
+*.log
+*.tmp
+*.bak
+
+# 📑 Notebooks temporaires ou de test
+*.ipynb_checkpoints
+
+# 📦 Fichiers de dépendances générés automatiquement
+pip-wheel-metadata/
