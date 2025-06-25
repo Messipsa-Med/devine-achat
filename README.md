@@ -9,4 +9,5 @@ Contenu
 
 - `main.py`             Script principal, exécute l'IA + interaction    
 - `profils_achat.csv`   Données d'entraînement (âge, salaire, acheté)   
-- `requirements.txt`    Bibliothèques nécessaires pour exécuter le code                     
+- `requirements.txt`    Bibliothèques nécessaires pour exécuter le code
+- `.gitignore`          Fichiers à ignorer
