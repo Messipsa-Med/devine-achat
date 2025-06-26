@@ -71,4 +71,5 @@ def devine_achat():
 
 devine_achat()
 
+if __name__ == "__main__"
 
