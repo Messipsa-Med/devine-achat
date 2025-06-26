@@ -69,7 +69,6 @@ def devine_achat():
         else:
             print("\nEntrée invalide. Tapez 1 ou 0 uniquement\n")
 
-devine_achat()
-
-if __name__ == "__main__"
+if __name__ == "__main__":
+  devine_achat()
 
